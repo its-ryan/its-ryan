@@ -11,7 +11,7 @@ I'm a computer science student interested in Cybersecurity and Blockchain techno
 ## 🌱 What I'm learning
 - Advanced JavaScript and TypeScript
 - Cybersecurity practices and tools
-- DevOps practices and tools
+- DevOps 
 
 ## 💬 Ask me about
 - Web development (MERN Stack)
@@ -21,7 +21,7 @@ I'm a computer science student interested in Cybersecurity and Blockchain techno
 
 ## 📫 How to reach me
 - Email: 23bcs040@iiitdmj.ac.in
-- LinkedIn: [[linkedin.com/in/aryan-pansare](https://linkedin.com/in/aryan-pansare-287053286/)]
+- LinkedIn: [[aryan-pansare](https://linkedin.com/in/aryan-pansare-287053286/)]
 
 ## ⚡ Fun fact
 I can speak 5 languages including Japanese and German! (bet you expected me to flex my programming language here lol)
