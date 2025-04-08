@@ -1,29 +1,38 @@
-# Hi there, I'm Aryan 
+# 👋 Hey there! I'm Aryan
 
-I'm a computer science student interested in Cybersecurity and Blockchain technology.
+🎓 A Computer Science undergrad with a passion for **Cybersecurity**, **Blockchain tech**, and building things that live on the web.
 
+---
 
-## 🔭 What I'm working on
-- Contributing to Bitcoin
-- Building cool web applications
-- Exploring Penetration Testing 
+## 🚀 What I'm up to
+- 🪙 Diving deep into **Bitcoin's codebase** and contributing where I can
+- 🌐 Crafting sleek & functional **web apps**
+- 🛡️ Practicing the art of **ethical hacking** and **penetration testing**
 
-## 🌱 What I'm learning
-- Advanced JavaScript and TypeScript
-- Cybersecurity practices and tools
-- DevOps 
+---
 
-## 💬 Ask me about
-- Web development (MERN Stack)
-- Web PenTesting and CTF Challenges
-- Open source contributions
-- Cybersecurity and InfoSec
+## 🌱 Currently Exploring
+- 🧠 Leveling up with **Advanced JavaScript & TypeScript**
+- 🔐 Playing with **Cybersecurity tools & best practices**
+- ⚙️ Getting comfy with the **DevOps lifecycle**
 
-## 📫 How to reach me
-- Email: 23bcs040@iiitdmj.ac.in
-- LinkedIn: [[aryan-pansare](https://linkedin.com/in/aryan-pansare-287053286/)]
+---
 
-## ⚡ Fun fact
-I can speak 5 languages including Japanese and German! (bet you expected me to flex my programming language here lol)
+## 💬 Let's Talk About
+- 💻 Full-stack development (MERN gang 💚)
+- 🕵️‍♂️ Web pentesting, forensics, and OSINT
+- 🌍 Open source vibes and security-minded coding
+- 🛡️ Data privacy, app security & making the web safer
 
-Congrats on Reading this (:
+---
+
+## 📬 Reach Out
+- 📧 Email: [23bcs040@iiitdmj.ac.in](mailto:23bcs040@iiitdmj.ac.in)
+- 💼 LinkedIn: [@aryan-pansare](https://linkedin.com/in/aryan-pansare-287053286/)
+
+---
+
+## ⚡ Little-known Fact
+I speak **5 languages** — including **Japanese** and **German** (yep, not just programming ones 😉)
+
+Thanks for scrolling this far — you're awesome (;
